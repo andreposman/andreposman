@@ -27,6 +27,8 @@
 - 🌱 I’m currently learning **TypeScript and Golang**  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - ⚡ Fun fact **I am huge NBA fan**
+<br />
+<br />
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
@@ -42,12 +44,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreposman&count_private=true&include_all_commits=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 </h2>
-<br />
-<br />
-<br />
-
-
-___
 <!-- languages -->
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
