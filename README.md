@@ -1,5 +1,4 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/qUbApEc">, I'm André</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm André</h1>
 <p align="center">
 
 <a href="https://codepen.io/andreposman" target="blank">
@@ -27,16 +26,14 @@
 - 🌱 I’m currently learning **TypeScript and Golang**  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - ⚡ Fun fact **I am huge NBA fan**
-<br />
-<br />
-
+___
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
 <h2>
 <details>
     <summary align="left">📈 GitHub Stats</summary>
+<br/>
 <br/>
     
 [![Andre's github stats](https://github-readme-stats.vercel.app/api?username=andreposman&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -44,6 +41,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreposman&count_private=true&include_all_commits=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 </h2>
+<br/>
 <!-- languages -->
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
