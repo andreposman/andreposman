@@ -9,10 +9,10 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andreposman" height="30" width="30" />
 </a>
 
-<a href="https://stackoverflow.com/users/andreposman" target="blank">
+<a href="https://stackoverflow.com/users/9337882/andreposman" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="andreposman" height="30" width="30" />
 </a>
-<a href="https://dev.to/https://dev.to/andreposman" target="blank">
+<a href="https://dev.to/andreposman" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/andreposman" height="30" width="30" />
 </a>
 </p>
