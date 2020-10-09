@@ -23,8 +23,6 @@
 - 🔭 I’m currently working on private repos 🤐 <a href="https://github.com/dafiti-group" target="blank">@dafiti-group</a></h3>
 
 - 🌱 I’m currently learning **TypeScript and Golang**  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-- ⚡ Fun fact **I am huge NBA fan**
 ___
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
