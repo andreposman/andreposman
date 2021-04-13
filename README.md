@@ -18,8 +18,11 @@
 <br>
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
+
+
 <p align="center">
+    
 <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank"> 
@@ -44,17 +47,17 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/andreposman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="andreposman" /></a></p><br><br> -->
 <hr>
-<p>
+<p align="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreposman&layout=compact&theme=gotham&hide=shell&count_private=true&include_all_commits=true&line_height=27")](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
-<p>
+<p align="center">
 
 ![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreposman&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&hide=stars,prs)
 </p>
 
-<p>
+<p align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andreposman&theme=gotham&fire=DD2E16)](https://git.io/streak-stats)
 
