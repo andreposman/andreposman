@@ -13,8 +13,8 @@
 - 🌱 Continuous (self) development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 👯 I’m looking to collaborate on **open source projects written in Golang and JavaScript/Typescript**
-
 <br>
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -47,7 +47,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreposman&layout=compact&theme=gotham&hide=shell&count_private=true&include_all_commits=true&line_height=27")](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
-<p>&nbsp;
+<p>
 
 ![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreposman&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&hide=stars,prs)
 </p>
