@@ -18,9 +18,9 @@
 
 <br/>
 
-![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreposman&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide=stars,prs)
+![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreposman&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&hide=stars,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreposman&layout=compact&theme=dark&hide=shell&count_private=true&include_all_commits=true&line_height=27")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreposman&layout=compact&theme=gotham&hide=shell&count_private=true&include_all_commits=true&line_height=27")](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
