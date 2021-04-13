@@ -1,8 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm André</h1>
 <p align="center">  
     <a href="https://linkedin.com/in/andreposman" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andreposman" height="30" width="30" /> | 
-        <a href="https://www.hackerrank.com/andreposman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="andreposman" height="30" width="30" /></a>
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andreposman" height="30" width="30" />
+    </a>
+     | 
+    <a href="https://www.hackerrank.com/andreposman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="andreposman" height="30" width="30" />
     </a>
 </p>
 
