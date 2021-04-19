@@ -6,6 +6,9 @@
      | 
     <a href="https://www.hackerrank.com/andreposman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="andreposman" height="30" width="30" />
     </a>
+    |
+        <a href="https://www.codewars.com/users/andreposman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" alt="andreposman" height="30" width="30" />
+    </a>
 </p>
 
 <h3 align="center">A often caffeinated, Software Engineer from Brazil 🇧🇷</h3>
@@ -44,10 +47,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/andreposman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="andreposman" /></a></p><br><br> -->
 <hr>
-<p align="left">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreposman&layout=compact&theme=gotham&hide=shell&count_private=true&include_all_commits=true&line_height=27")](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 <p align="center">
 
@@ -58,4 +57,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andreposman&theme=gotham&fire=DD2E16)](https://git.io/streak-stats)
 
+</p>
+
+<p align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreposman&layout=compact&theme=gotham&hide=shell&count_private=true&include_all_commits=true&line_height=27")](https://github.com/anuraghazra/github-readme-stats)
 </p>
